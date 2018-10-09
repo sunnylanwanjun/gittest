@@ -1,0 +1,3 @@
+[submodule "gittestsub"]
+	path = gittestsub
+	url = https://github.com/sunnylanwanjun/gittestsub
